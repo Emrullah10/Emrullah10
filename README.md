@@ -24,7 +24,7 @@
 <p align="left">
 <a href="https://dev.to/emrullah_bozkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="emrullah_bozkurt" height="30" width="40" /></a>
 <a href="https://twitter.com/emrullahbzkr_t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="emrullahbzkr_t" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/emrullah-bozkurt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrullah bozkurt" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/emrullah-bozkurt-3190a622b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="emrullah bozkurt" height="30" width="40" /></a>
 <a href="https://instagram.com/emr_bozkurtt" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="emr_bozkurtt" height="30" width="40" /></a>
 <a href="https://medium.com/@kemalbozkurt1006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@kemalbozkurt1006" height="30" width="40" /></a>
 </p>
