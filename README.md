@@ -12,9 +12,9 @@
 
 - 👨‍💻 All of my informations you can see at Linkedln [https://www.linkedin.com/in/emrullah-bozkurt-3190a622b/](https://www.linkedin.com/in/emrullah-bozkurt-3190a622b/)
 
-- 💬 Ask me about **flutter/dart,python,android and firebase**
+- 💬 Ask me about **flutter/dart,python, and nodejs**
 
-- 📫 How to reach me **kemalbozkurt1006@gmail.com**
+- 📫 How to reach me **emrullahbozkurt06@gmail.com**
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
