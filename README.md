@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/D4D16AQHpcr0sRgPHpA/profile-displaybackgroundimage-shrink_350_1400/0/1703240628871?e=1725494400&v=beta&t=bW6wRlEcS5ByQdcO8FDbRGys_amtWXzebwtgm_j-umc" width="100%" alt="Banner" />
+  <img src="[https://media.licdn.com/dms/image/D4D16AQHpcr0sRgPHpA/profile-displaybackgroundimage-shrink_350_1400/0/1703240628871?e=1725494400&v=beta&t=bW6wRlEcS5ByQdcO8FDbRGys_amtWXzebwtgm_j-umc](https://media.licdn.com/dms/image/v2/D4D16AQEys9ZoI6Iwhg/profile-displaybackgroundimage-shrink_350_1400/B4DZsUnO8EH4AY-/0/1765577389142?e=1767225600&v=beta&t=hCUzh8n1DiKj6erCCO4khnrQyZJzmrESUI7E7uEFh8w)" width="100%" alt="Banner" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Emrullah BOZKURT</h1>
@@ -14,7 +14,7 @@
   <a href="mailto:emrullahbozkurt06@gmail.com">
     <img src="https://img.shields.io/badge/Email-emrullahbozkurt06%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
   </a>
-  <a href="https://www.linkedin.com/in/emrullahbozkurt/">
+  <a href="www.linkedin.com/in/dev-emrullah-bozkurt">
     <img src="https://img.shields.io/badge/LinkedIn-Emrullah%20Bozkurt-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
