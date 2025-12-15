@@ -39,7 +39,7 @@
 
 ### 🚀 What I Do
 
-* 💻 **Full Stack Development:** Building scalable web applications using **React, Node.js,** and **Supabase** (Creator of *Life Tube* & *ReStart*).
+* 💻 **Full Stack Development:** Building scalable web applications using **React, Node.js, PostgreSQL (SQL),** and **Supabase** (Creator of *Life Tube* & *ReStart*).
 * 📱 **Mobile Development:** Creating cross-platform apps with **Flutter** and **React Native**.
 * 🤖 **AI & Research:** Working on **Vision-Language Models (VLM)** for animal disease classification as part of my M.Sc. thesis.
 * 📊 **Data & Finance:** Interested in investment algorithms, financial tracking, and data analysis.
@@ -49,7 +49,7 @@
 ### 🛠️ Languages and Tools
 
 <div align="center">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,flutter,dart,python,git,docker,firebase,mongodb,mysql,postgres,postman,figma,redis" />
+  <img src="https://skillicons.dev/icons?i=react,nodejs,js,ts,flutter,dart,python,git,docker,supabase,firebase,mongodb,mysql,postgres,postman,figma,redis" />
 </div>
 
 ---
