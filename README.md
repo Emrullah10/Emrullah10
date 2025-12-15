@@ -15,9 +15,6 @@
 <p>
   <img src="https://komarev.com/ghpvc/?username=emrullah10&label=Profile%20views&color=0e75b6&style=flat" alt="emrullah10" />
 </p>
-<a href="https://github.com/ryo-ma/github-profile-trophy">
-  <img src="https://github-profile-trophy.vercel.app/?username=emrullah10" alt="emrullah10" />
-</a>
 
 <br/>
 
