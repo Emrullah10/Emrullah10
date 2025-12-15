@@ -39,10 +39,10 @@
 
 ### 🚀 What I Do
 
-* 💻 **Full Stack Development:** Building scalable web applications using **React, Node.js, PostgreSQL (SQL),** and **Supabase** (Creator of *Life Tube* & *ReStart*).
-* 📱 **Mobile Development:** Creating cross-platform apps with **Flutter** and **React Native**.
-* 🤖 **AI & Research:** Working on **Vision-Language Models (VLM)** for animal disease classification as part of my M.Sc. thesis.
-* 📊 **Data & Finance:** Interested in investment algorithms, financial tracking, and data analysis.
+* 💻 **Full Stack Development:** Building scalable architectures for **E-waste Management** and **Content Platforms** using **React, Node.js, PostgreSQL,** and **Supabase**.
+* 📱 **Mobile Development:** Creating cross-platform apps for government and private sectors using **Flutter** and **React Native**.
+* 🤖 **AI & Research:** Conducting academic research on **Vision-Language Models (VLM)** for veterinary diagnosis support (M.Sc. Thesis).
+* 📊 **FinTech & Data:** Enthusiast in Financial Technologies and Data Visualization patterns.
 
 ---
 
