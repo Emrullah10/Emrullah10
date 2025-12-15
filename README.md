@@ -1,52 +1,42 @@
-<div align="center">
-  <a href="https://www.linkedin.com/in/dev-emrullah-bozkurt/">
-    <img src="./banner.jpg" width="100%" alt="Full Stack & Mobile Developer Banner" />
-  </a>
-  </div>
-
-<br/>
-
-<h1 align="center">Hi 👋, I'm Emrullah BOZKURT</h1>
+<h1 align="center">Hi 👋, I'm Emrullah Bozkurt</h1>
 <h3 align="center">Computer Engineer | Full Stack & Mobile Developer | M.Sc. Student</h3>
 
-<p align="center">
-  A passionate <b>Software Engineer</b> based in Turkey, dedicated to creating high-quality, scalable solutions for the <b>Mobile & Web ecosystem</b>. 
-  <br>
-  I combine my academic background with hands-on industry experience to build user-centric applications and robust backend architectures.
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrullah10&label=Profile%20views&color=0e75b6&style=flat" alt="emrullah10" /> </p>
+
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrullah10" alt="emrullah10" /></a> </p>
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dev-emrullah-bozkurt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-emrullah-bozkurt/" height="30" width="40" /></a>
 </p>
 
-<div align="center">
-  <a href="mailto:emrullahbozkurt06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-c14438?style=flat-square&logo=gmail&logoColor=white" alt="Email" />
-  </a>
-  <a href="https://www.linkedin.com/in/dev-emrullah-bozkurt/">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077b5?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://github.com/Emrullah10">
-    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  </a>
-</div>
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://dart.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
 
-<hr/>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrullah10&show_icons=true&locale=en&layout=compact" alt="emrullah10" /></p>
 
-### 🚀 What I Do
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=emrullah10&show_icons=true&locale=en" alt="emrullah10" /></p>
 
-- 🔭 **Building:** Cross-platform mobile applications (**Flutter, React Native**) and high-performance backend services (**Node.js**).
-- 🌱 **Researching:** AI-powered technologies and accessibility solutions (M.Sc. Research & TÜBİTAK Supported).
-- 📱 **Experience:** Developed comprehensive mobile apps for government agencies and corporate clients.
-- 💡 **Focus:** Clean Architecture, TDD, System Design, and Scalable Code.
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrullah10&" alt="emrullah10" /></p>
 
-### 🛠️ Languages & Tools
 
-<div align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,js,ts,python,cpp,git,figma,mysql,firebase,vscode,androidstudio&perline=14" />
-</div>
+<h1 align="center">Merhaba 👋, ben Emrullah Bozkurt</h1>
+<h3 align="center">Bilgisayar Mühendisi | Full Stack & Mobile Geliştirici | M.Sc. Student</h3>
 
-<br/>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=emrullah10&label=Profile%20views&color=0e75b6&style=flat" alt="emrullah10" /> </p>
 
-### 📊 GitHub Stats
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=emrullah10" alt="emrullah10" /></a> </p>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrullah10&show_icons=true&locale=en&theme=dark&hide_border=true&bg_color=0D1117" alt="emrullah10 stats" height="150" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emrullah10&show_icons=true&locale=en&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="emrullah10 langs" height="150" />
-</div>
+<h3 align="left">Benimle bağlantı kurun:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/https://www.linkedin.com/in/dev-emrullah-bozkurt/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/dev-emrullah-bozkurt/" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Diller ve Araçlar:</h3>
+<p align="left"> <a href="https://dart.dev" hedef="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/dartlang/dartlang-icon.svg" alt="dart" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" genişlik="40" yükseklik="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" genişlik="40" yükseklik="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postacı" genişlik="40" yükseklik="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" genişlik="40" yükseklik="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrullah10&show_icons=true&locale=en&layout=compact" alt="emrullah10" /></p>
+
+<p>&nbsp; <img align="center" src="https://github-readme-stats.vercel.app/api?username=emrullah10&show_icons=true&locale=en" alt="emrullah10" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrullah10&" alt="emrullah10" /></p>
