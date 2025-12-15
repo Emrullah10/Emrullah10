@@ -57,10 +57,6 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=emrullah10&show_icons=true&locale=en&theme=dark" height="180" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=emrullah10&theme=dark" height="180" alt="Streak Stats" />
-  
-  <br/>
-  
+  <img src="https://github-readme-stats.vercel.app/api?username=emrullah10&show_icons=true&locale=en&theme=dark" height="180" alt="GitHub Stats" /><img src="https://streak-stats.demolab.com?user=emrullah10&theme=dark" height="180" alt="Streak Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emrullah10&show_icons=true&locale=en&layout=compact&theme=dark" height="180" alt="Top Languages" />
 </div>
