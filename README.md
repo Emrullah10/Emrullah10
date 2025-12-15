@@ -39,7 +39,7 @@
 
 ### 🚀 What I Do
 
-* 💻 **Full Stack Development:** Building scalable architectures for **E-waste Management** and **Content Platforms** using **React, Node.js, PostgreSQL,** and **Supabase**.
+* 💻 **Full Stack & Backend:** Building scalable web architectures using **React** and **Node.js**. Specialized in **Relational Database Design** and **SQL** optimization with **PostgreSQL** and **Supabase**.
 * 📱 **Mobile Development:** Creating cross-platform apps for government and private sectors using **Flutter** and **React Native**.
 * 🤖 **AI & Research:** Conducting academic research on **Vision-Language Models (VLM)** and **fine-grained image classification** (M.Sc. Thesis).
 * ⚡ **Algorithms & Logic:** Passionate about **Algorithm Optimization**, **Data Structures**, and solving complex engineering problems.
