@@ -1,38 +1,39 @@
 <div align="center">
-  <img src="[https://media.licdn.com/dms/image/D4D16AQHpcr0sRgPHpA/profile-displaybackgroundimage-shrink_350_1400/0/1703240628871?e=1725494400&v=beta&t=bW6wRlEcS5ByQdcO8FDbRGys_amtWXzebwtgm_j-umc](https://media.licdn.com/dms/image/v2/D4D16AQEys9ZoI6Iwhg/profile-displaybackgroundimage-shrink_350_1400/B4DZsUnO8EH4AY-/0/1765577389142?e=1767225600&v=beta&t=hCUzh8n1DiKj6erCCO4khnrQyZJzmrESUI7E7uEFh8w)" width="100%" alt="Banner" />
+  <img src="https://media.licdn.com/dms/image/D4D16AQHpcr0sRgPHpA/profile-displaybackgroundimage-shrink_350_1400/0/1703240628871?e=1725494400&v=beta&t=bW6wRlEcS5ByQdcO8FDbRGys_amtWXzebwtgm_j-umc" width="100%" alt="Banner" />
 </div>
 
 <h1 align="center">Hi 👋, I'm Emrullah BOZKURT</h1>
-<h3 align="center">Full Stack & Mobile Developer | Computer Engineer (M.Sc. Student)</h3>
+<h3 align="center">Computer Engineer | Full Stack & Mobile Developer | M.Sc. Student</h3>
 
 <p align="center">
-  <em>Versatile Computer Engineer dedicated to building high-quality software solutions. <br> 
-  Bridging the gap between mobile and web platforms using <b>Flutter, React Native, Node.js, and React.</b></em>
+  A passionate <b>Software Engineer</b> based in Turkey, dedicated to creating high-quality, scalable solutions for the <b>Mobile & Web ecosystem</b>. 
+  <br>
+  I combine my academic background with hands-on industry experience to build user-centric applications and robust backend architectures.
 </p>
 
 <p align="center">
   <a href="mailto:emrullahbozkurt06@gmail.com">
-    <img src="https://img.shields.io/badge/Email-emrullahbozkurt06%40gmail.com-blue?style=flat-square&logo=gmail" alt="Email" />
+    <img src="https://img.shields.io/badge/Email-Contact_Me-blue?style=flat-square&logo=gmail" alt="Email" />
   </a>
-  <a href="www.linkedin.com/in/dev-emrullah-bozkurt">
-    <img src="https://img.shields.io/badge/LinkedIn-Emrullah%20Bozkurt-blue?style=flat-square&logo=linkedin" alt="LinkedIn" />
+  <a href="https://www.linkedin.com/in/emrullahbozkurt/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin" alt="LinkedIn" />
   </a>
 </p>
 
 ---
 
-### 🛠️ Tech Stack & Tools
+### 🚀 What I Do
+
+- 🔭 **Building:** Cross-platform mobile applications and high-performance backend services.
+- 🌱 **Researching:** AI-powered technologies and accessibility solutions (M.Sc. Research).
+- 💡 **Focus:** Clean Architecture, System Design, and Scalable Code.
+- 🤝 **Collaboration:** Open to contributing to impactful open-source projects and tech discussions.
+
+### 🛠️ Languages & Tools
 
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,js,ts,python,cpp,git,figma,mysql,firebase,vscode,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=flutter,dart,react,nodejs,js,ts,python,cpp,git,figma,mysql,firebase,vscode,androidstudio&perline=14" />
 </p>
-
-### 👨‍💻 About Me
-
-- 🔭 I’m currently working on **High-performance backend services & Mobile Apps** at **Poetas**.
-- 🌱 I’m currently conducting R&D on **AI-powered accessibility technologies** (TÜBİTAK Supported).
-- 📱 I have developed 3 comprehensive mobile apps for government agencies using **Flutter**.
-- 💬 Ask me about **Cross-Platform Development, System Architecture, and Clean Code**.
 
 ### 📊 GitHub Stats
 
