@@ -1,12 +1,12 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dev-emrullah-bozkurt/">
-  <img src="https://github.com/Emrullah10/Emrullah10/blob/main/banner.jpg?raw=true" width="100%" alt="Full Stack Banner" />
+  <img src="https://raw.githubusercontent.com/Emrullah10/Emrullah10/main/banner.jpg" width="100%" alt="Full Stack Banner" />
 </a>
 
 <br/>
 
-# Hi there, I'm Emrullah Bozkurt 👋
+# Hi there, I'm Emrullah Bozkurt <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="35">
 
 <a href="https://git.io/typing-svg">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=2196F3&center=true&vCenter=true&width=435&lines=Full+Stack+Developer;Mobile+App+Developer;Computer+Engineer;M.Sc.+Student+(AI+%26+VLM)" alt="Typing SVG" />
@@ -57,17 +57,10 @@
 ### 📈 GitHub Stats
 
 <div align="center">
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=emrullah10&show_icons=true&locale=en&layout=compact&theme=dark" alt="emrullah10" />
-</p>
-
-<p>
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=emrullah10&show_icons=true&locale=en&theme=dark" alt="emrullah10" />
-</p>
-
-<p>
-  <img align="center" src="https://streak-stats.demolab.com?user=emrullah10&theme=dark" alt="emrullah10" />
-</p>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=emrullah10&show_icons=true&locale=en&theme=dark" height="180" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=emrullah10&theme=dark" height="180" alt="Streak Stats" />
+  
+  <br/>
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=emrullah10&show_icons=true&locale=en&layout=compact&theme=dark" height="180" alt="Top Languages" />
 </div>
