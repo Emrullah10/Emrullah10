@@ -70,7 +70,7 @@
 </p>
 
 <p>
-  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=emrullah10&theme=dark" alt="emrullah10" />
+  <img align="center" src="https://streak-stats.demolab.com?user=emrullah10&theme=dark" alt="emrullah10" />
 </p>
 
 </div>
