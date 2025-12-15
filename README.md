@@ -41,8 +41,8 @@
 
 * 💻 **Full Stack Development:** Building scalable architectures for **E-waste Management** and **Content Platforms** using **React, Node.js, PostgreSQL,** and **Supabase**.
 * 📱 **Mobile Development:** Creating cross-platform apps for government and private sectors using **Flutter** and **React Native**.
-* 🤖 **AI & Research:** Conducting academic research on **Vision-Language Models (VLM)** for veterinary diagnosis support (M.Sc. Thesis).
-* 📊 **FinTech & Data:** Enthusiast in Financial Technologies and Data Visualization patterns.
+* 🤖 **AI & Research:** Conducting academic research on **Vision-Language Models (VLM)** and **fine-grained image classification** (M.Sc. Thesis).
+* ⚡ **Algorithms & Logic:** Passionate about **Algorithm Optimization**, **Data Structures**, and solving complex engineering problems.
 
 ---
 
