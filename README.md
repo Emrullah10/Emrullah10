@@ -1,4 +1,4 @@
- <div align="center">
+  <div align="center">
 
 <a href="https://www.linkedin.com/in/dev-emrullah-bozkurt/">
   <img src="https://raw.githubusercontent.com/Emrullah10/Emrullah10/main/banner.jpg" width="100%" alt="Full Stack Banner" />
