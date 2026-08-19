@@ -36,15 +36,14 @@
 
 ---
 
-### 🧩 Featured Projects
-
 | Project | What it is | Stack |
 |---|---|---|
+| **[fridge-monorepo](https://github.com/Emrullah10/fridge-monorepo)** | Receipt-scanning & shared fridge inventory backend — Gemini-powered receipt parsing, Dockerized, Jest-tested ([mobile client](https://github.com/Emrullah10/fridge-mobil)) | Node.js · PostgreSQL · Gemini · Docker |
+| **[restart-monorepo](https://github.com/Emrullah10/restart-monorepo)** | Microservices platform: IAM, marketplace and operation services behind web & mobile API gateways, with a React client | Node.js · Express · React |
+| **[barber-monorepo](https://github.com/Emrullah10/barber-monorepo)** | Barbershop booking platform: core service, gateway, React web client, versioned SQL schemas, Jest suite | Node.js · React · Jest |
 | **[HealthFintel](https://github.com/Emrullah10/health)** | Startup MVP integrating health & financial data — [live site](https://www.healthfintel.com.tr/) | Flutter · Dart |
-| **[Restart Platform](https://github.com/Emrullah10/restart-marketplace-service)** | Microservices system: [marketplace](https://github.com/Emrullah10/restart-marketplace-service) · [IAM](https://github.com/Emrullah10/restart-iam-service) · [operations](https://github.com/Emrullah10/restart-operation-service) + [RN client](https://github.com/Emrullah10/restart_react_app) | Node.js · Express · React Native |
-| **[Barbershop Booking](https://github.com/Emrullah10/barber-gateway)** | Microservices booking platform: [gateway](https://github.com/Emrullah10/barber-gateway) · [backend](https://github.com/Emrullah10/barber-backend) · [frontend](https://github.com/Emrullah10/barber-frontend) | Node.js · React |
 | **[whisper2](https://github.com/Emrullah10/whisper2)** | Speech-to-text + AI summarization pipeline (TÜBİTAK-related) | Python · OpenAI Whisper |
-| **[pi_mobile_flutter](https://github.com/Emrullah10/pi_mobile_flutter)** | Cross-platform app with auth & audio recording services | Flutter · Dart |
+| **[pi_mobile_flutter](https://github.com/Emrullah10/pi_mobile_flutter)** | Cross-platform app with auth & audio recording ([backend](https://github.com/Emrullah10/pi-monorepo)) | Flutter · Dart |
 
 ---
 
