@@ -1,7 +1,7 @@
 <div align="center">
 
 <a href="https://www.linkedin.com/in/dev-emrullah-bozkurt/">
-  <img src="https://raw.githubusercontent.com/Emrullah10/Emrullah10/main/banner.jpg" width="100%" alt="Emrullah Bozkurt — Full Stack & Mobile Developer" />
+  <img src="https://raw.githubusercontent.com/Emrullah10/Emrullah10/main/banner.png" width="100%" alt="Emrullah Bozkurt — Full Stack & Mobile Developer" />
 </a>
 
 <h1>Hi, I'm Emrullah Bozkurt 👋</h1>
