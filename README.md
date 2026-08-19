@@ -68,13 +68,6 @@
 
 <div align="center">
 
-### 📈 GitHub Stats
-
-<img src="https://github-readme-stats.vercel.app/api?username=Emrullah10&show_icons=true&hide_border=true&locale=en&theme=tokyonight" height="165" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Emrullah10&hide_border=true&locale=en&layout=compact&theme=tokyonight" height="165" alt="Top Languages" />
-
-<br/><br/>
-
 **Open to Full Stack, Mobile and AI engineering roles.** Feel free to reach out 👋
 
 <img src="https://komarev.com/ghpvc/?username=emrullah10&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
